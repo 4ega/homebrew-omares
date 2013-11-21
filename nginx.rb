@@ -15,7 +15,7 @@ end
 
 class Nginx < Formula
   homepage 'http://nginx.org/'
-  url 'http://nginx.org/download/nginx-1.4.3.tar.gz'
+  url 'http://nginx.org/download/nginx-1.4.4.tar.gz'
   # sha1 '65309abde9d683ece737da7a354c8fae24e15ecb'
 
   # devel do
